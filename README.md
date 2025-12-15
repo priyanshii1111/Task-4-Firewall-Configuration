@@ -35,10 +35,3 @@ The objective of this task is to configure and test basic firewall rules on a Wi
 ## Conclusion
 This task helped in understanding basic firewall operations such as listing rules, blocking specific ports, testing firewall behavior, and restoring system configurations. Firewalls play a critical role in improving system and network security.
 The firewall rule was tested using the netstat command. No active connections or listening services were found on port 23, confirming that inbound traffic to this port is blocked.
-
-## Key Concepts Covered
-- Firewall configuration
-- Inbound rules
-- Port blocking
-- Network traffic filtering
-- Windows Firewall
